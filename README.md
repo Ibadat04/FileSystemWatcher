@@ -19,9 +19,9 @@
 File System Watcher is a Java-based desktop application that monitors real-time file system events (**CREATE**, **MODIFY**, **DELETE**) using the **WatchService API**.  
 It logs events into an **SQLite database**, supports **query filtering**, allows **CSV export**, and enables **secure email delivery** of reports.
 
-Think of it like a **security camera for your files** — it watches a folder in real time, records what happens, and lets you search, export, and even email a report of those changes.
+Think of it like a **security camera for your files**, it watches a folder in real time, records what happens, and lets you search, export, and even email a report of those changes.
 
-This project was developed as part of **TCSS 360 – Software Development & Quality Assurance** at the **University of Washington Tacoma**, following **MVC architecture** and incorporating the **Observer pattern** for responsive UI updates.
+This project was developed as part of **TCSS 360 - Software Development & Quality Assurance** at the **University of Washington Tacoma**, following **MVC architecture** and incorporating the **Observer pattern** for responsive UI updates.
 
 ---
 
